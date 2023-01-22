@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**CaioLima10/CaioLima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="520em" alt="Photo Caio Lima" src="https://user-images.githubusercontent.com/119355480/213938938-d1dc5550-2fed-4c31-9ff3-6e7bf6cb006d.png"/>
 
-Here are some ideas to get you started:
+## Olá sou Caio Lima🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  - 📖 Tenho 25 Anos, gosto muito da área da Programação
+  
+   
+   - 💻 Achei sensacional o front-end,por motivo que aplicação com a qual o
+   usuário irá interagir diretamente.
+   
+   
+   - 🖱 Tecnologias 
+   #Html
+   #css
+   #javascript
+   #sql
+   ⏳ Em Andamento...
+   #nodeJs
+   #ReactJs  e o <strong>(Inglês)</strong>
+   
+   
+  - 💪 Meta ser um <strong>Futuro develope web / frontend</strong>
