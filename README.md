@@ -21,4 +21,4 @@
    #ReactJs  e o <strong>(Inglês)</strong>
    
    
-  - 💪 Meta ser um <strong>Future develope web / frontend</strong>
+  - 💪 Meta ser um <strong>Future web develope/ frontend</strong>
