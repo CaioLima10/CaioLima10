@@ -4,21 +4,19 @@
 ## Olá sou Caio Lima🙋‍♂️
 
 
-  - 📖 Tenho 25 Anos, gosto muito da área da Programação
+tenho 25 Anos/ moro em São Paulo
+
+-  💻 tecnologia
+
+  Desenvolvo projetos com, HTML,CSS,JAVASCRIPYT,GIT, GITHUB E FIGMA
   
-   
-   - 💻 Achei sensacional o front-end,por motivo que aplicação com a qual o
-   usuário irá interagir diretamente.
-   
-   
-   - 🖱 Tecnologias 
-   #Html
-   #css
-   #javascript
-   #sql
-   ⏳ Em Andamento...
-   #nodeJs
-   #ReactJs  e o <strong>(Inglês)</strong>
-   
-   
+continuo aprimorando minhas habiliades, estudando atualmente
+
+reactjs,nodejs e Inglês, sempre procuro me atualizar e evoluir,
+
+  Pretendo mais para frente estudar e aprender typescripyt
+  
+Gosto da area da tecnoligia, tenho pretensão na area como Front-End.
+
   - 💪 Meta ser um <strong>Future web developer / frontend</strong>
+  
