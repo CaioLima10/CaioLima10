@@ -20,3 +20,7 @@ Gosto da area da tecnoligia, tenho pretensão na area como Front-End.
 
   - 💪 Meta ser um <strong>Future web developer / frontend</strong>
   
+  
+
+- 💙<a href="https://www.linkedin.com/in/caio-lima-de-souza-176471264/">LINKEDIN</a>
+  
