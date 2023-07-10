@@ -10,17 +10,13 @@ tenho 25 Anos/ moro em São Paulo
 
   Desenvolvo projetos com, HTML-"Hyper Text Markup Language",
   
-  CSS-"Cascading Style Sheets", Javascript, Git, Github E Figma
+  CSS-"Cascading Style Sheets", Javascript, Node js , SQLite3 , MYSql , React ,  Git , Github E Figma
   
-continuo aprimorando minhas habiliades, estudando atualmente
+continuo aprimorando minhas habiliades.
 
-ReactJs, NodeJs e Inglês, sempre procuro me atualizar e evoluir,
-
-  Pretendo mais para frente estudar e aprender Typescripyt
-  
 Gosto da area da tecnoligia, tenho pretensão na area como Front-End.
 
-  - 💪 Meta ser um <strong>Future web developer / frontend</strong>
+  - 💪 Meta ser um <strong>Future web developer / front-end</strong>
   
   
 ## Contato
