@@ -4,19 +4,14 @@
 ## Olá, me chamo Caio Lima!
 
 
-tenho 25 Anos/ moro em São Paulo
 
-## o que mais gosto Tecnologia 
 
-> tomar um bom Cafe
->
-> conversa sobre Projetos
->
-> planejar o Projeto
->
-> e Desenvolver
+<strong>
+  meu sonho sempre foi a área de TI, e com isso comecei a estudar logica de Programação.
+  no começo foi muito difícil, aos poucos fui gostando e hoje sou apaixonado por essa área. 
+</strong><br>
 
-##
+## Meta
   - 💪 Meta ser um <strong>Future web developer / front-end</strong>
   
   
