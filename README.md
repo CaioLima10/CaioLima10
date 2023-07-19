@@ -24,9 +24,10 @@ tenho 25 Anos/ moro em São Paulo
 <a href="https://www.linkedin.com/in/caiolimadev10/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="caiohenrys50@gmail.com" target="_blank">
+<a href="mailto:caiohenrys50@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 <a href="http://web.whatsapp.com/send?phone=5511989356304" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
