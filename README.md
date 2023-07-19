@@ -39,7 +39,7 @@ tenho 25 Anos/ moro em São Paulo
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50" height="50" alt="Html free icon" title="Html free icon">
+      <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50" height="50" alt="Html" title="Html free icon">
       <br>
       <p>HTML</p>
     </td>
@@ -49,7 +49,7 @@ tenho 25 Anos/ moro em São Paulo
       <p>CSS</p>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50" alt="JavaScript" title="" class="img-small">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50" alt="" title="JavaScript" class="img-small">
       <br>
       <p>JavaScript</p>
     </td>
