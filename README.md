@@ -7,8 +7,8 @@
 
 
 <strong>
-  meu sonho sempre foi a área de TI, e com isso comecei a estudar logica de Programação.
-  no começo foi muito difícil, aos poucos fui gostando e hoje sou apaixonado por essa área. 
+Meu sonho sempre foi trabalhar na área de TI, e para alcançá-lo, comecei a estudar lógica de programação. No começo, foi bastante desafiador,
+  mas aos poucos fui me envolvendo e, hoje em dia, sou completamente apaixonado por esse area
 </strong><br>
 
 ## Meta
