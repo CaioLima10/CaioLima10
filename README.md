@@ -1,10 +1,12 @@
 # Olá, eu sou o Caio Lima! 👋
 
-### Desenvolvedor  | React.js | Next.js | Node.js | Javascript | TypeScript
+### Desenvolvedor Full Stack | React.js | Next.js | Node.js | TypeScript
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com experiência prática no desenvolvimento de aplicações web e mobile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com experiência prática no desenvolvimento de aplicações web.
 
-Tenho experiência com **JavaScript, TypeScript, React.js, Next.js, Node.js e React Native**, além de conhecimentos em desenvolvimento de APIs, integração de serviços, estilização de interfaces e ferramentas do ecossistema JavaScript.
+Meu foco principal está no **desenvolvimento web**, utilizando **React.js, Next.js, Node.js, JavaScript e TypeScript** para criar aplicações modernas, responsivas e escaláveis.
+
+Também possuo conhecimentos em **APIs REST, GraphQL, integração de serviços, estilização de interfaces e bancos de dados**, além de experiência complementar com React Native.
 
 Atualmente, busco uma oportunidade como **Desenvolvedor Front-end ou Full Stack Júnior**, onde possa contribuir com projetos reais, aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
@@ -14,40 +16,81 @@ Atualmente, busco uma oportunidade como **Desenvolvedor Front-end ou Full Stack 
 
 * 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 * 💻 Experiência prática como **Auxiliar de Desenvolvimento de Software**
-* 🌐 Foco em **desenvolvimento web**
-* 📱 Experiência com aplicações **Web e Mobile**
-* ⚛️ Experiência com **React.js, Next.js e React Native**
+* 🌐 Foco em **Desenvolvimento Web**
+* ⚛️ Experiência com **React.js e Next.js**
+* 🟢 Desenvolvimento de APIs e aplicações com **Node.js**
 * 🟦 Desenvolvimento utilizando **TypeScript e JavaScript**
-* 🔌 Conhecimentos em **Node.js, APIs REST e GraphQL**
+* 🔌 Conhecimentos em **APIs REST**
+* 🎨 Experiência com diferentes bibliotecas e ferramentas de UI
+* 📱 Conhecimentos complementares em **React Native**
 * 📚 Sempre buscando evoluir tecnicamente através de projetos e estudos
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Front-end**
+### ⚛️ Front-end
 
-HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js"/>
+</p>
 
-**Mobile**
+### 🟢 Back-end
 
-React Native • Expo
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" title="GraphQL"/>
+</p>
 
-**Back-end**
+**Também trabalho com:** APIs REST
 
-Node.js • APIs REST • GraphQL
+### 🎨 Bibliotecas e UI
 
-**Estilização / UI**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" title="Material UI"/>
+</p>
 
-Tailwind CSS • Styled Components • Shadcn/UI • Material UI • Bootstrap
+**Também utilizo:** Styled Components • Shadcn/UI • Elementor
 
-**Banco de Dados**
+### 📱 Conhecimentos complementares
 
-SQLite • Realm
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="45" title="Expo"/>
+</p>
 
-**Ferramentas**
+**React Native • Expo**
 
-Git • GitHub • Linux • Insomnia • WordPress • Elementor
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
+</p>
+
+### 🐳 Containers
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+</p>
+
+**Também utilizo:** Realm
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+</p>
+
+**Também utilizo:** Insomnia • WordPress • Elementor
 
 ---
 
@@ -57,11 +100,11 @@ Git • GitHub • Linux • Insomnia • WordPress • Elementor
 
 API REST para gerenciamento e acompanhamento de entregas, incluindo autenticação, cadastro de entregas, atualização de status e registro de logs.
 
-**Tecnologias:** Node.js • TypeScript • REST API
+**Tecnologias:** Node.js • TypeScript • REST API * Jest * Prisma * Docker * Zod
 
 ### 📱 Roady Metais
 
-Aplicação mobile desenvolvida durante minha experiência profissional como Auxiliar de Desenvolvimento de Software.
+Aplicação desenvolvida durante minha experiência profissional como **Auxiliar de Desenvolvimento de Software**.
 
 **Tecnologias:** React Native • JavaScript • Expo
 
@@ -80,6 +123,8 @@ Aplicação mobile desenvolvida durante minha experiência profissional como Aux
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLima10&theme=tokyonight" alt="GitHub Profile Summary"/>
   </a>
 </p>
+
+---
 
 ## 📫 Contato
 
