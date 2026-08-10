@@ -1,80 +1,83 @@
-
 <img align="right" height="520em" alt="Photo Caio Lima" src="https://user-images.githubusercontent.com/119355480/213938938-d1dc5550-2fed-4c31-9ff3-6e7bf6cb006d.png"/>
 
-## Olá, me chamo Caio Lima!
+Olá, eu sou o Caio Lima! 👋
+Desenvolvedor Front-end | React.js | Next.js | TypeScript
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor apaixonado por tecnologia, com experiência prática no desenvolvimento de aplicações web e mobile.
 
+Tenho experiência com JavaScript, TypeScript, React.js, Next.js e Node.js, além de desenvolvimento mobile com React Native. Também possuo conhecimentos em integração de APIs, gerenciamento de estado, estilização de interfaces e desenvolvimento de aplicações responsivas.
 
+Atualmente, busco uma oportunidade como Desenvolvedor Front-end ou Desenvolvedor Full Stack Júnior, onde possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmente.
 
-<strong>
-Meu sonho sempre foi trabalhar na área de TI, e para alcançá-lo, comecei a estudar lógica de programação. No começo, foi bastante desafiador,
-  mas aos poucos fui me envolvendo e, hoje em dia, sou completamente apaixonado por esse area
-</strong><br>
+🚀 Sobre mim
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Experiência prática como Auxiliar de Desenvolvimento de Software
+🌐 Foco em desenvolvimento web e aplicações modernas
+📱 Experiência com desenvolvimento Web e Mobile
+🔧 Interesse em arquitetura, APIs e boas práticas de desenvolvimento
+📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades
+🎯 Objetivo: atuar profissionalmente como Desenvolvedor Front-end / Full Stack Júnior
+💻 Tecnologias e Ferramentas
+Front-end
 
-## Meta
-  - 💪 Meta ser um <strong>Future web developer / front-end</strong>
-  
-  
-## Contato
-<a href="https://www.linkedin.com/in/caiolimadev10/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="mailto:caiohenrys50@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js"/> </p>
 
-<a href="http://web.whatsapp.com/send?phone=5511989356304" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-</a>
+Back-end
 
-##
-  
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" title="GraphQL"/> </p>
 
-## 💻 tecnologias
+Mobile
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="50" height="50" alt="Html" title="Html free icon">
-      <br>
-      <p>HTML</p>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" height="50" alt="Css" title="CSS" class="img-small">
-      <br>
-      <p>CSS</p>
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50" alt="" title="JavaScript" class="img-small">
-      <br>
-      <p>JavaScript</p>
-    </td>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" height="50" alt="" title="NodeJS" class="img-small">
-      <p>NodeJS</p>
-</td>
-  <td>
-  <img src="https://cdn-icons-png.flaticon.com/512/9544/9544010.png" width="50" height="50" alt="" title="SQLite3" class="img-small">
-  <p>SQLite3</p>
-</td>
-<td><img src="https://cdn-icons-png.flaticon.com/512/10910/10910569.png" width="50" height="50" alt="" title="Git" class="img-small">
-  <p>&zwnj; GIT</p>
-</td>
-  <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" height="50" alt="" title="Github" class="img-small">
-      <p>GitHub</p>
-    </td>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="50" height="50" alt="" title="Linux" class="img-small">
-      <p>Linux</p>
-    </td>
-<td>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50" height="50" alt="" title="ReactJs" class="img-small">
-  <p>&zwnj; ReactJs</p>
-</td>
-  <td>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="NextJs"/>
-  <p>&zwnj; NextJs </p>
-</td>
-  </tr>
-</table>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="45" title="Expo"/> </p>
+
+UI e Estilização
+Tailwind CSS
+Styled Components
+Shadcn/UI
+Material UI
+Bootstrap
+Elementor
+Banco de Dados e Ferramentas
+SQLite
+Realm
+Git
+GitHub
+Linux
+Insomnia
+REST APIs
+📌 Projetos
+🚀 RocketLog API
+
+API REST desenvolvida para gerenciamento e acompanhamento de entregas, incluindo:
+
+Cadastro de usuários
+Autenticação e sessões
+Cadastro e listagem de entregas
+Atualização de status
+Registro e consulta de logs de entrega
+
+Tecnologias: Node.js, TypeScript, REST API e banco de dados.
+
+📱 Roady Metais
+
+Aplicação mobile desenvolvida durante minha experiência profissional como Auxiliar de Desenvolvimento de Software.
+
+Atuação no desenvolvimento e manutenção de funcionalidades utilizando tecnologias do ecossistema JavaScript/React Native.
+
+📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/CaioLima10"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioLima10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLima10&layout=compact&langs_count=8&theme=tokyonight"/> </a>
+
+</div>
+
+📫 Contato
+
+<a href="https://www.linkedin.com/in/caiolimadev10/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+<a href="mailto:caiohenrys50@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+
+<a href="https://github.com/CaioLima10" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+💡 Sempre aprendendo, construindo e evoluindo através da tecnologia.
