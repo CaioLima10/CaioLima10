@@ -44,7 +44,6 @@ Atualmente, busco uma oportunidade como **Desenvolvedor Front-end ou Full Stack 
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" title="GraphQL"/>
 </p>
 
 **Também trabalho com:** APIs REST
