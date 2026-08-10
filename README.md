@@ -1,6 +1,6 @@
 # Olá, eu sou o Caio Lima! 👋
 
-### Desenvolvedor Front-end | React.js | Next.js | TypeScript
+### Desenvolvedor  | React.js | Next.js | Node.js | Javascript | TypeScript
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com experiência prática no desenvolvimento de aplicações web e mobile.
 
@@ -69,16 +69,17 @@ Aplicação mobile desenvolvida durante minha experiência profissional como Aux
 
 ## 📊 GitHub
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/CaioLima10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioLima10&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+</p>
 
-<a href="https://github.com/CaioLima10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioLima10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLima10&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/CaioLima10">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioLima10&theme=tokyonight" alt="GitHub Profile Summary"/>
+  </a>
+</p>
 
 ## 📫 Contato
 
